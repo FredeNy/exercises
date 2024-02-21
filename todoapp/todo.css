@@ -8,21 +8,21 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: rgb(17, 33, 126);
+    background: rgb(49, 54, 202);
     padding: 10px;
 }
 
 .todoapp{
     width: 100%;
     max-width: 550px;
-    background: #ffff;
+    background: #ffffff;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 5px;
 }
 
 .todoapp h2{
-color: #002765;
+color: #0e1829;
 display: flex;
 align-items: center;
 margin-bottom: 20px;
@@ -52,7 +52,7 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #f15844;
     color: #ffff;
     font-size: 16px;
     cursor: pointer;
